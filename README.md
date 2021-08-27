@@ -15,12 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+Clark #ms314006
+Hi, I'm Clark! I am a front-end Developer of web. I love learing new technology and skills of web, I writting articles about technology of program I leanrned on dev.to. I leaving in Taiwan now. I want to work at others country, talk a lot with all sort of people and know more about this world 😸.
+
 <h1 align="center">Hi 👋, I'm Kelly</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/duck_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duck_tech" height="30" width="40" /></a>
+<a href="https://instagram.com/duck_tech_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="duck_tech_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
