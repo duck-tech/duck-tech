@@ -1,5 +1,5 @@
-# Kelly
-Hi, I'm Kelly! I am a graduate student. 
+# Hi, I'm Kelly🍼! I am a graduate student.  
+I love learing new technology and skills of web, I writting articles about technology of program.🐣
 
 <!-- ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
@@ -12,8 +12,8 @@ Hi, I'm Kelly! I am a graduate student.
 - JavaScript
 - Version Control(Git/it-Flow)
 
-## 💡 Projects
-- []()
+<!-- ## 💡 Projects
+- []() -->
 
 ## 🔗 Get in touch
 - Instagram: https://www.instagram.com/duck_tech_/
