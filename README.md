@@ -1,4 +1,5 @@
-# Hi, I'm Kelly🍼! I am a graduate student.  
+# Hi, I'm Kelly🍼! 
+I am a graduate student.  
 I love learing new technology and skills of web, I writting articles about technology of program.🐣
 
 <!-- ## 🤓 My values
@@ -17,4 +18,4 @@ I love learing new technology and skills of web, I writting articles about techn
 
 ## 🔗 Get in touch
 - Instagram: https://www.instagram.com/duck_tech_/
-- HackMD：　https://hackmd.io/@Go3PyC86QhypSl7kh5nA2Q
+- HackMD：https://hackmd.io/@Go3PyC86QhypSl7kh5nA2Q
