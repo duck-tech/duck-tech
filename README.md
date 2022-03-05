@@ -11,7 +11,7 @@ I love learing new technology and skills of web, I writting articles about techn
 - CSS
 - Bootstrap
 - JavaScript
-- Version Control(Git/it-Flow)
+- Version Control(Git-Flow)
 
 <!-- ## 💡 Projects
 - []() -->
