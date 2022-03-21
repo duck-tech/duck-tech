@@ -1,4 +1,4 @@
-# Hi, I'm Kelly🍼! 
+# Hi, I'm Kelly 👧! 
 I am a graduate student.  
 I love learing new technology and skills of web application and data analysis I writting articles about technology of program.🐣
 
