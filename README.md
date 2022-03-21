@@ -18,6 +18,9 @@ I love learing new technology and skills of web, I writting articles about techn
 - Keras
 - scikit-learn
 - Version Control(Git-Flow)
+- Linux
+- Amazon
+- GKE
 
 ## Web Application
 - [restaurant-list](https://github.com/duck-tech/restaurant-list)
