@@ -11,11 +11,26 @@ I love learing new technology and skills of web, I writting articles about techn
 - CSS
 - Bootstrap
 - JavaScript
+- NodeJS/ExpressJS
+- MongoDB/Mongoose
+- MySQL
+- Python
+- Keras
+- scikit-learn
 - Version Control(Git-Flow)
 
-<!-- ## 💡 Projects
-- []() -->
+## Web Application
+- [restaurant-list](https://github.com/duck-tech/restaurant-list)
+- [todo-list](https://github.com/duck-tech/todo-list)
+- [smart-ecommerce](https://github.com/duck-tech/smart)
 
+## Data Analysis
+- [IEEE-CIS credit card fraud detection](https://github.com/duck-tech/IEEE-CIS-credit-card-fraud-detection)
+- [sentiment analysis yelp](https://github.com/duck-tech/sentiment-analysis-yelp)
+- [chinese sentiment analysis_waimai](https://github.com/duck-tech/chinese-sentiment-analysis_waimai)
+- [time-series-portfolio](https://github.com/duck-tech/time-series-portfolio)
+- [time-series-pm25](https://github.com/duck-tech/time-series-pm25)
+ 
 ## 🔗 Get in touch
 - Instagram: https://www.instagram.com/duck_tech_/
-- HackMD：https://hackmd.io/@Go3PyC86QhypSl7kh5nA2Q
+
