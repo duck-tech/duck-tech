@@ -35,6 +35,5 @@ I love learing new technology and skills of web application and data analysis I 
 - [time-series-portfolio](https://github.com/duck-tech/time-series-portfolio)
 - [time-series-pm25](https://github.com/duck-tech/time-series-pm25)
  
-## 🔗 Get in touch
-- Instagram: https://www.instagram.com/duck_tech_/
+
 
